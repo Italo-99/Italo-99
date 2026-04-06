@@ -87,7 +87,7 @@ Design and development of autonomous rover platforms for the European Rover Chal
 
 <p align="center">
   <img src="images/rover/rover_unity.png" width="550"/>
-  <img src="images/rover/probing_rover_unity.png" width="430"/>
+  <img src="images/rover/probing_rover_unity.png" width="550"/>
 </p>
 
 <p align="center">
