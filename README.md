@@ -80,9 +80,9 @@ Design and development of autonomous rover platforms for the European Rover Chal
 - Team leadership and system architecture
 
 <p align="center">
-  <img src="images/rover/rover.jpg" width="380"/>
-  <img src="images/rover/rover_marsyard.jpeg" width="380"/>
-  <img src="images/rover/probing_rover_real.png" height="250"/>
+  <img src="images/rover/rover.jpg" width="350"/>
+  <img src="images/rover/rover_marsyard.jpeg" width="350"/>
+  <img src="images/rover/probing_rover_real.png" height="240"/>
 </p>
 
 <p align="center">
