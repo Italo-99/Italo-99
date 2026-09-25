@@ -125,7 +125,7 @@ Experience across the full robotics pipeline:
 
 - 🌐 [Personal Website](https://italo-99.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/italo-almirante-62431a216)
-- 🎓 [Google Scholar](https://scholar.google.com/citations?user=Ap9R8foAAAAJ)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=-QQGmGcAAAAJ&view_op=list_works&gmla=AERr9JHehnf0-Ra1jQVLyiji0d-bYUxhojzz1fMnHUkw9PZHVKnskyKRPORfH8AZzw4Q0zF6WVzTfMKKG8T6G-Th)
 
 - 🤖 [ProjectRED](https://www.dismi.unimore.it/it/didattica/progetti-gli-studenti/project-red)
 - 🧪 [ARS Control Laboratory](https://www.arscontrol.unimore.it/)
